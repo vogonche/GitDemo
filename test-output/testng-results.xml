@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-06T01:50:42 CEST" name="Default suite" finished-at="2023-08-06T01:50:42 CEST" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2023-08-06T01:50:42 CEST" name="Default test" finished-at="2023-08-06T01:50:42 CEST" duration-ms="47">
+      <class name="StreamsTutorijal.test1">
+        <test-method signature="streamCollect()[pri:0, instance:StreamsTutorijal.test1@2d52216b]" started-at="2023-08-06T01:50:42 CEST" name="streamCollect" finished-at="2023-08-06T01:50:42 CEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- StreamsTutorijal.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
